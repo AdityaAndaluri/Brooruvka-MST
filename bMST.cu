@@ -1,4 +1,4 @@
-%%writefile BMST.cu
+
 #include<thrust/scan.h>
 #include<thrust/sort.h>
 #include <thrust/unique.h>
